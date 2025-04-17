@@ -18,6 +18,6 @@ This workflow requires the [Advanced URI](https://publish.obsidian.md/advanced-u
 
 This workflow requires [JQ](https://jqlang.org) on your system.
 
-Use Homebrew to install jq with: brew install jq
-Use MacPorts to install jq with: port install jq
-Use Fink to install jq with: fink install jq
+- Use Homebrew to install jq with: brew install jq
+- Use MacPorts to install jq with: port install jq
+- Use Fink to install jq with: fink install jq
